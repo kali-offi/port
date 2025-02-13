@@ -9,9 +9,9 @@ const Header = () => {
                     <div className=" d-flex justify-content-center align-items-center">
                         <div className="col-lg-7 col-12">
                             <p className='opac m-0'  data-aos="fade-up" data-aos-duration="1000">Hi 👋,I'm</p>
-                            <h4 className='first name' data-aos="fade-up" data-aos-duration="1000">Kavitha</h4>
-                            <p className='front-end' data-aos="fade-up" data-aos-duration="1000">Front End Developer</p>
-                            <p data-aos="fade-up" data-aos-duration="1000">I'm a Full end developer with a focus on web development </p>
+                            <h4 className='first name' data-aos="fade-up" data-aos-duration="1000">Kaleeswaran</h4>
+                            <p className='front-end' data-aos="fade-up" data-aos-duration="1000">Full Stack Developer</p>
+                            <p data-aos="fade-up" data-aos-duration="1000">I'm a Full Stack developer with a focus on web development </p>
                           <a href={Resume} download='resume'>  <button className='px-5 py-2 border contact' dow data-aos="fade-up" data-aos-duration="1000">Contact</button></a>
                         </div>
                         <div className="  col-lg-5" data-aos="fade-up" data-aos-duration="1000">
