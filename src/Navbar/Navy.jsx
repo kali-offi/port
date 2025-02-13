@@ -3,7 +3,7 @@ import Container from 'react-bootstrap/Container';
 import Nav from 'react-bootstrap/Nav';
 import Navbar from 'react-bootstrap/Navbar';
 import './navy.css'
-import Toogle from '../toogle/toogle.jsx';
+import Toogle from '../toogle/Toogle.jsx';
 
 const Navy = () => {
   return (
