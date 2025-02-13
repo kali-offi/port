@@ -1,6 +1,6 @@
 import React, { useEffect } from 'react'
 import './About.css'
-import img from '../assets/img1.JPG'
+import img from '../assets/img1.jpg'
 import python from '../assets/python.png'
 import mysql from '../assets/mysql.png'
 import dj from '../assets/dj.png'
