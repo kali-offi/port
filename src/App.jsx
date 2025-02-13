@@ -3,7 +3,7 @@ import Navy from './Navbar/Navy.jsx'
 import Header from './Header/Header.jsx'
 import About from './About/About.jsx'
 import './App.css'
-import Port from './portfolio/portfolio.jsx'
+import Porty from './portfolio/Port.jsx'
 import Contact from './Contact/Contact.jsx'
 import Footer from './Footer/Footer.jsx';
 
@@ -15,7 +15,7 @@ function App() {
       <Navy />
       <Header />
       <About />
-      <Port />
+      <Porty />
       <Contact />
       <Footer />
     </>

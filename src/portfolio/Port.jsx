@@ -1,19 +1,11 @@
 import React, { useState } from 'react'
-import './Portfolio.css'
+import './Port.css'
 
 
-//  const parag = {
-//     WebkitLineClamp:2,
-//     WebkitBoxOrient:'vertical',
-//     overflow:'hidden',
-//     display:'-webkit-box'
-// }
 
-const Portfolio = () => {
-    // const[isOpen,setIsopen]=useState(false)
-    
-    
 
+const Port = () => {
+  
   return (
   <>
   <section>
@@ -175,4 +167,4 @@ const Portfolio = () => {
   )
 }
 
-export default Portfolio
+export default Port
